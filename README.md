@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Malte.
 
 <!--
 **schmalte04/schmalte04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a data scientist with a focus on #rstats and football analytics. Within the next weeks i will take care to give you at this place a brief overview of my works. Meanwhile you can visit me on Twitter: [Twitter](https://twitter.com/schmalte04).
