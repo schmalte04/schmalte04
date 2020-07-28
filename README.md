@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a data scientist with a focus on #rstats and football analytics. Within the next weeks i will take care to give you at this place a brief overview of my works. Meanwhile you can visit me on Twitter: [Twitter](https://twitter.com/schmalte04).
+I am a data scientist with a focus on #rstats and football analytics. Within the next weeks i will take care to give you at this place a brief overview of my works. Meanwhile you can visit me on Twitter: [@schmalte04](https://twitter.com/schmalte04).
