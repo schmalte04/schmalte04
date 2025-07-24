@@ -29,6 +29,8 @@ As a lifelong football enthusiast, I combine deep statistical modeling with real
 
 - 📈 **End-of-Season Modeling Project**  
   A large-scale simulation of football leagues that forecasted standings, relegation, and qualification probabilities — **featured in *Gazzetta dello Sport*, *OneFootball*, and other international media outlets.**
+https://github.com/schmalte04/bundesliga_simulation
+  
 
 - 🔧 **Contributor to the `Shiny` package**  
   Active in improving features and documentation for the popular R framework used to build interactive web applications.
